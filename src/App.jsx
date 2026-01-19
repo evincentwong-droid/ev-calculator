@@ -56,7 +56,7 @@ const App = () => {
 
   // 參考數據表
   const references = [
-    { type: '家用插座 (13A)', phase: '單相', voltage: '220V', current: '10A - 13A', power: '2.2 - 2.8 kW' },
+    { type: '家用插座 (13A)', phase: '單相', voltage: '220V', current: '13A', power: '~ 2.8 kW' },
     { type: '中速充電 (16A)', phase: '單相', voltage: '220V', current: '16A', power: '~ 3.5 kW' },
     { type: '標準中速 (32A)', phase: '單相', voltage: '220V', current: '32A', power: '~ 7.0 kW' },
     { type: '三相中速 (16A)', phase: '三相', voltage: '380V', current: '16A', power: '~ 11 kW' },
